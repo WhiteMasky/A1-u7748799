@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.12)  12 MAR 2024 13:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.12)  14 MAR 2024 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,85 +225,202 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-))
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 18.
+)) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks20
+\float@box=\box55
+\@float@everytoks=\toks21
+\@floatcapt=\box56
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen152
+)) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box57
+\strutbox@=\box58
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count294
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks23
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks24
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks25
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 22.
  (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) (./report.aux)
+) (./report.aux
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
  (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
-\scratchdimen=\dimen152
-\scratchbox=\box55
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count291
-\MPscratchDim=\dimen153
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count301
+\scratchdimen=\dimen161
+\scratchbox=\box59
+\nofMPsegments=\count302
+\nofMParguments=\count303
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count304
+\MPscratchDim=\dimen162
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
+\everyMPtoPDFconversion=\toks28
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (c:/texlive/2023/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 22.
  (./report.out) (./report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
-\c@lstlisting=\count294
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+\c@lstlisting=\count307
  (c:/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/02/21 1.10 listings language file
 )
-Underfull \hbox (badness 10000) in paragraph at lines 23--26
+Underfull \hbox (badness 10000) in paragraph at lines 29--34
 
  []
 
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 26.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 34.
 (c:/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
-(lipsum)                'english' will be used instead.
-
-<example-image.pdf, id=16, 321.2pt x 240.9pt>
-File: example-image.pdf Graphic file (type pdf)
-<use example-image.pdf>
-Package pdftex.def Info: example-image.pdf  used on input line 53.
-(pdftex.def)             Requested size: 195.0pt x 146.25404pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 85.03389pt, for example:
@@ -314,34 +431,315 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}
 
 ]
+<red_channel.jpg, id=173, 385.44pt x 256.96pt>
+File: red_channel.jpg Graphic file (type jpg)
+<use red_channel.jpg>
+Package pdftex.def Info: red_channel.jpg  used on input line 91.
+(pdftex.def)             Requested size: 195.0pt x 129.99706pt.
+<green_channel.jpg, id=174, 385.44pt x 256.96pt>
+File: green_channel.jpg Graphic file (type jpg)
+<use green_channel.jpg>
+Package pdftex.def Info: green_channel.jpg  used on input line 102.
+(pdftex.def)             Requested size: 195.0pt x 129.99706pt.
+ [2
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.106 
+       <./red_channel.jpg>]
+<blue_channel.jpg, id=193, 385.44pt x 256.96pt>
+File: blue_channel.jpg Graphic file (type jpg)
+<use blue_channel.jpg>
+Package pdftex.def Info: blue_channel.jpg  used on input line 110.
+(pdftex.def)             Requested size: 195.0pt x 129.99706pt.
+ [3
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.128   display_histogram(
+                          r, 'Red Channel Histogram', 'red')
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.128   display_histogram(
+                          r, 'Red Channel Histogram', 'red') <./green_channel.jpg> <./blue_channel.jpg>]
+<merged_histogram.png, id=211, 867.24pt x 289.08pt>
+File: merged_histogram.png Graphic file (type png)
+<use merged_histogram.png>
+Package pdftex.def Info: merged_histogram.png  used on input line 144.
+(pdftex.def)             Requested size: 390.0pt x 130.00098pt.
+ [4
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.161   cdf_m 
+              = np.ma.masked_equal(cdf, 0) <./merged_histogram.png>]
+<equalized_histogram.png, id=241, 867.24pt x 289.08pt>
+File: equalized_histogram.png Graphic file (type png)
+<use equalized_histogram.png>
+Package pdftex.def Info: equalized_histogram.png  used on input line 197.
+(pdftex.def)             Requested size: 390.0pt x 130.00098pt.
+ [5] [6
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.231     else:
+                <./equalized_histogram.png>]
+<hsv_result.png, id=306, 1463.4675pt x 1344.02126pt>
+File: hsv_result.png Graphic file (type png)
+<use hsv_result.png>
+Package pdftex.def Info: hsv_result.png  used on input line 272.
+(pdftex.def)             Requested size: 195.0pt x 179.0766pt.
+ [7]
+<hsv_channels.png, id=346, 867.24pt x 289.08pt>
+File: hsv_channels.png Graphic file (type png)
+<use hsv_channels.png>
+Package pdftex.def Info: hsv_channels.png  used on input line 302.
+(pdftex.def)             Requested size: 390.0pt x 130.00098pt.
+ [8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.306 
+       <./hsv_result.png (PNG copy)>]
+<edges.png, id=373, 2090.81125pt x 861.2175pt>
+File: edges.png Graphic file (type png)
+<use edges.png>
+Package pdftex.def Info: edges.png  used on input line 333.
+(pdftex.def)             Requested size: 390.0pt x 160.63684pt.
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.337 
+       <./hsv_channels.png>]
+Overfull \hbox (15.00214pt too wide) in paragraph at lines 351--352
+[][][][] 
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 85.03389pt, for example:
-(fancyhdr)                \setlength{\headheight}{85.03389pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-73.03389pt}.
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.354 #
+        Assuming there's only one cat face in the image <./edges.png (PNG copy)>]
+<image4.jpg, id=411, 1609.51312pt x 1072.90837pt>
+File: image4.jpg Graphic file (type jpg)
+<use image4.jpg>
+Package pdftex.def Info: image4.jpg  used on input line 388.
+(pdftex.def)             Requested size: 390.0pt x 259.97533pt.
+ [11]
+<cropped_cat_face.jpg, id=448, 513.92pt x 513.92pt>
+File: cropped_cat_face.jpg Graphic file (type jpg)
+<use cropped_cat_face.jpg>
+Package pdftex.def Info: cropped_cat_face.jpg  used on input line 395.
+(pdftex.def)             Requested size: 195.0pt x 195.00148pt.
+ [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.402 \begin{python}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.402 \begin{python}
+                     <./image4.jpg> <./cropped_cat_face.jpg>]
+<noisy_cat_face.jpg, id=455, 513.92pt x 513.92pt>
+File: noisy_cat_face.jpg Graphic file (type jpg)
+<use noisy_cat_face.jpg>
+Package pdftex.def Info: noisy_cat_face.jpg  used on input line 419.
+(pdftex.def)             Requested size: 195.0pt x 195.00148pt.
+ [13
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.431 plt.
+          title('Original Image Histogram') <./noisy_cat_face.jpg>]
+<original_and_noisy_histograms.png, id=476, 462.528pt x 346.896pt>
+File: original_and_noisy_histograms.png Graphic file (type png)
+<use original_and_noisy_histograms.png>
+Package pdftex.def Info: original_and_noisy_histograms.png  used on input line 443.
+(pdftex.def)             Requested size: 390.0pt x 292.5128pt.
 
-[2 <c:/texlive/2023/texmf-dist/tex/latex/mwe/example-image.pdf>] (./report.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 448--453
+
+ []
+
+[14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.453 \subsection
+                 {Question 4} <./original_and_noisy_histograms.png>] [15] [16]
+<noisy_and_filtered_cat_face.png, id=543, 722.7pt x 361.35pt>
+File: noisy_and_filtered_cat_face.png Graphic file (type png)
+<use noisy_and_filtered_cat_face.png>
+Package pdftex.def Info: noisy_and_filtered_cat_face.png  used on input line 523.
+(pdftex.def)             Requested size: 390.0pt x 194.99928pt.
+ [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.529 \subsection
+                 {Question 6} <./noisy_and_filtered_cat_face.png>] [18]
+<gaussian_filter_comparison.png, id=603, 867.24pt x 1156.32pt>
+File: gaussian_filter_comparison.png Graphic file (type png)
+<use gaussian_filter_comparison.png>
+Package pdftex.def Info: gaussian_filter_comparison.png  used on input line 587.
+(pdftex.def)             Requested size: 390.0pt x 520.00397pt.
+
+
+LaTeX Warning: Float too large for page by 13.10187pt on input line 590.
+
+
+Overfull \hbox (10.19644pt too wide) in paragraph at lines 592--597
+\OT1/ptm/m/n/12 - Mod-er-ate stan-dard de-vi-a-tion (e.g., 10.0): The fil-tered im-age ap-pears to be smoother
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--597
+
+ []
+
+[19] [20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.597 \subsection
+                 {Question 7} <./gaussian_filter_comparison.png>] [21]
+<custom_vs_opencv_gaussian_filter.png, id=673, 867.24pt x 433.62pt>
+File: custom_vs_opencv_gaussian_filter.png Graphic file (type png)
+<use custom_vs_opencv_gaussian_filter.png>
+Package pdftex.def Info: custom_vs_opencv_gaussian_filter.png  used on input line 664.
+(pdftex.def)             Requested size: 390.0pt x 195.00148pt.
+<custom_vs_opencv_gaussian_filter_comparison.png, id=674, 867.24pt x 289.08pt>
+File: custom_vs_opencv_gaussian_filter_comparison.png Graphic file (type png)
+<use custom_vs_opencv_gaussian_filter_comparison.png>
+Package pdftex.def Info: custom_vs_opencv_gaussian_filter_comparison.png  used on input line 671.
+(pdftex.def)             Requested size: 390.0pt x 130.00098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 678--679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 680--681
+
+ []
+
+[22] [23
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.681 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.681 
+       <./custom_vs_opencv_gaussian_filter.png> <./custom_vs_opencv_gaussian_filter_comparison.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 682--683
+
+ []
+
+[24] [25]
+<sobel_filter_comparison_image2.png, id=784, 386.6445pt x 920.7198pt>
+File: sobel_filter_comparison_image2.png Graphic file (type png)
+<use sobel_filter_comparison_image2.png>
+Package pdftex.def Info: sobel_filter_comparison_image2.png  used on input line 769.
+(pdftex.def)             Requested size: 195.0pt x 464.3487pt.
+<sobel_filter_comparison_image4.png, id=785, 406.8801pt x 920.7198pt>
+File: sobel_filter_comparison_image4.png Graphic file (type png)
+<use sobel_filter_comparison_image4.png>
+Package pdftex.def Info: sobel_filter_comparison_image4.png  used on input line 775.
+(pdftex.def)             Requested size: 195.0pt x 441.25209pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 782--786
+
+ []
+
+[26] [27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.791 \subsection
+                 {Question 2} <./sobel_filter_comparison_image2.png>] [28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.791 \subsection
+                 {Question 2} <./sobel_filter_comparison_image4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 793--800
+
+ []
+
+[29]
+<gradient_orientation_histogram_image2.png, id=831, 425.6703pt x 328.8285pt>
+File: gradient_orientation_histogram_image2.png Graphic file (type png)
+<use gradient_orientation_histogram_image2.png>
+Package pdftex.def Info: gradient_orientation_histogram_image2.png  used on input line 826.
+(pdftex.def)             Requested size: 195.0pt x 150.64076pt.
+<gradient_orientation_histogram_image4.png, id=832, 409.7709pt x 328.8285pt>
+File: gradient_orientation_histogram_image4.png Graphic file (type png)
+<use gradient_orientation_histogram_image4.png>
+Package pdftex.def Info: gradient_orientation_histogram_image4.png  used on input line 833.
+(pdftex.def)             Requested size: 195.0pt x 156.48116pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 838--842
+
+ []
+
+[30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.842 \section
+              {Task 5: Short Response Questions} <./gradient_orientation_histogram_image2.png>] [31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.885 \end{thebibliography}
+                            <./gradient_orientation_histogram_image4.png>] [32] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 68A36A64A84DDC619AE6D0D5046D5D22;390.
+(rerunfilecheck)             Checksum: CB2069D110AD827F224BF10C7F1EC06E;3625.
  ) 
 Here is how much of TeX's memory you used:
- 11915 strings out of 476023
- 183316 string characters out of 5791734
- 2135190 words of memory out of 5000000
- 33872 multiletter control sequences out of 15000+600000
- 569688 words of font info for 60 fonts, out of 8000000 for 9000
+ 13850 strings out of 476023
+ 212464 string characters out of 5791734
+ 2244190 words of memory out of 5000000
+ 35192 multiletter control sequences out of 15000+600000
+ 573010 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 79i,11n,93p,508b,1614s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (2 pages, 78268 bytes).
+ 79i,11n,93p,804b,2150s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (32 pages, 4076704 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1022 PDF objects out of 1200 (max. 8388607)
+ 934 compressed objects within 10 object streams
+ 611 named destinations out of 1000 (max. 500000)
+ 381 words of extra memory for PDF output out of 10000 (max. 10000000)
 
